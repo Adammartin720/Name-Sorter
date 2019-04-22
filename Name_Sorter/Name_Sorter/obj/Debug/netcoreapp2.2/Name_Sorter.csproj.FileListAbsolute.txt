@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Projects\Name_Sorter\Name_Sorter\bin\Debug\netcoreapp2.2\Name_Sorter.deps.json
+C:\Users\User\Documents\Projects\Name_Sorter\Name_Sorter\bin\Debug\netcoreapp2.2\Name_Sorter.runtimeconfig.json
+C:\Users\User\Documents\Projects\Name_Sorter\Name_Sorter\bin\Debug\netcoreapp2.2\Name_Sorter.runtimeconfig.dev.json
+C:\Users\User\Documents\Projects\Name_Sorter\Name_Sorter\bin\Debug\netcoreapp2.2\Name_Sorter.dll
+C:\Users\User\Documents\Projects\Name_Sorter\Name_Sorter\bin\Debug\netcoreapp2.2\Name_Sorter.pdb
+C:\Users\User\Documents\Projects\Name_Sorter\Name_Sorter\obj\Debug\netcoreapp2.2\Name_Sorter.csprojAssemblyReference.cache
+C:\Users\User\Documents\Projects\Name_Sorter\Name_Sorter\obj\Debug\netcoreapp2.2\Name_Sorter.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projects\Name_Sorter\Name_Sorter\obj\Debug\netcoreapp2.2\Name_Sorter.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Projects\Name_Sorter\Name_Sorter\obj\Debug\netcoreapp2.2\Name_Sorter.AssemblyInfo.cs
+C:\Users\User\Documents\Projects\Name_Sorter\Name_Sorter\obj\Debug\netcoreapp2.2\Name_Sorter.dll
+C:\Users\User\Documents\Projects\Name_Sorter\Name_Sorter\obj\Debug\netcoreapp2.2\Name_Sorter.pdb
